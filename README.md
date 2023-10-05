@@ -1,4 +1,4 @@
-⭐ Hello, 我是 lyouthzzz 待业ing，求收留，热爱Golang、微服务、云原生技术
+⭐ Hello, 我是 lyouthzzz，热爱Golang、微服务、云原生技术
 
 <table>
 
